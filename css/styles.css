@@ -98,7 +98,7 @@ h2, h3 {
 .team-item {
   background-color: #FFF;
 }
-.section-portfolio {
+.portfolio {
   background-color: #F4F4FD;
 }
 
@@ -110,4 +110,6 @@ h2, h3 {
 }
 .footer-text {
   color: #F4F4FD;
+  line-height: 1.5;
+  letter-spacing: 0.32px;
 }
